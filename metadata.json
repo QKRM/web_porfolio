@@ -1,0 +1,6 @@
+{
+  "name": "Grogu Collectibles",
+  "description": "프리미엄 세이지 컬렉션과 은하계의 감성을 담은 최고급 라이프스타일 굿즈 스토어",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
