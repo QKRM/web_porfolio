@@ -38,7 +38,11 @@ export default function Hero({ onStartClick }: HeroProps) {
             transition={{ duration: 0.7, delay: 0.1 }}
             className="font-headline font-extrabold text-[32px] sm:text-4xl md:text-5xl text-[#2A2C22] leading-[1.25] tracking-tight"
           >
-            당신의 일상에 포스를 채워줄 최고의 파트너를 단 한 번의 선택으로 만나보세요
+            당신의 일상에 포스를 채워줄
+            <br />
+            최고의 파트너~~단한번의 선택으로
+            <br />
+            만나보세요
           </motion.h1>
 
           <motion.p 
